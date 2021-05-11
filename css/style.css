@@ -55,7 +55,7 @@
     padding-right: 5px;
 }
 
-.top-btn > img {
+.top-btn * img, .top-btn > img {
     width: 100%;
 }
 
