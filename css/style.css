@@ -56,7 +56,7 @@
 }
 
 .top-btn * img, .top-btn > img {
-    width: 100%; 
+    width: 100%;
 }
 
 .top-btn:hover {
@@ -177,6 +177,18 @@ img.inline-img {
 
 .component-wrapper.inactive > .component-circle {
     background-color: #e4e4e4;
+}
+
+.download-pdf {
+    padding-top: 20px;
+    font-family: 'Athiti';
+    font-weight: bold;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.download-pdf:hover {
+    color: blue;
 }
 
 .component-wrapper {
