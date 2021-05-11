@@ -17,4 +17,4 @@ pip install wefe
 
 ## Website
 
-The experiments can be seen [here](https://pichayutter.github.io/)
+The experiments and reports are sumarized in the [website](https://pichayutter.github.io/)
